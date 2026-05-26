@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Ayanavilli D S S Deekshitulu</h1>
   <p><b>B.Tech Computer Science (AIML) | Data Engineering & AI Developer</b></p>
-  <p>📍 Greater Noida, India &nbsp;&nbsp; | &nbsp;&nbsp; ✉️ <a href="mailto:your.email@example.com">Email Me</a> &nbsp;&nbsp; | &nbsp;&nbsp; 🔗 <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a></p>
+  <p>📍 Greater Noida, India &nbsp;&nbsp; | &nbsp;&nbsp; ✉️ <a href="mailto:dskteam111@gmai.com">Email Me</a> &nbsp;&nbsp; | &nbsp;&nbsp; 🔗 <a href="www.linkedin.com/in/ayanavilli-d-s-s-deekshitulu-b2aa3b36b">LinkedIn</a></p>
 </div>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Deekshitulu30&color=blue&style=for-the-badge&label=Profile+views)](https://github.com/Deekshitulu30)
